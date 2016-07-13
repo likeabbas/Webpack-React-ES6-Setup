@@ -2,6 +2,11 @@ My boilerplate for Webpack, ES6, React (with JSX), Redux and React Router.
 
 Big thanks to Juho Vepsäläinen for getting me setup with this via his book, SurviveJS: Webpack. 
 
+How to install:
+
+git clone https://github.com/likeabbas/Webpack-React-ES6-Setup.git
+npm install
+
 How to use:
 
 Developer Environment: npm run start
