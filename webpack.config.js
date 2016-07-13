@@ -12,9 +12,9 @@ const PATHS = {
   app: path.join(__dirname, 'app'),
   style: [
     // path.join(__dirname, 'node_modules', 'purecss'),
-    path.join(__dirname, 'app', 'public', 'Styles', 'style.css')
+    path.join(__dirname, 'app', 'public', 'styles', 'style.css')
   ],
-  fonts: path.join(__dirname, 'app', 'public', 'Fonts'),
+  fonts: path.join(__dirname, 'app', 'public', 'fonts'),
   build: path.join(__dirname, 'build')
 };
 

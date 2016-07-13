@@ -1,0 +1,10 @@
+/*Fonts*/
+@font-face {
+  font-family: Titillium-Web;
+  src: url(../fonts/TitilliumWeb-Regular.ttf);
+}
+
+body {
+  background-color: #EEEEEE;
+  font-family: Titillium-Web;
+}
