@@ -1,1 +1,3 @@
-My boilerplate for Webpack, ES6, React (with JSX), Redux and React Router
+My boilerplate for Webpack, ES6, React (with JSX), Redux and React Router.
+
+Big thanks to Juho Vepsäläinen for getting me setup with this via his book, SurviveJS: Webpack. 
