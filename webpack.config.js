@@ -39,7 +39,7 @@ const common = merge(
     },
     plugins: [
       new HtmlWebpackPlugin({
-        title: 'Is Your Website Better Than Doom?',
+        title: 'Webpack Setup',
         template: require('html-webpack-template'),
         appMountId: 'app',
         inject: false
